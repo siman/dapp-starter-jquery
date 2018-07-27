@@ -16,4 +16,4 @@ http://remix.ethereum.org
 
 ## Run
 
-./run-server.sh
+./server-start.sh
