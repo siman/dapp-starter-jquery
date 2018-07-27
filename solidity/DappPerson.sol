@@ -15,7 +15,7 @@ contract DappPerson {
         _;
     }
     
-    function Dapp() public {
+    function DappPerson() public {
         owner = msg.sender;
     }
 

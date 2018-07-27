@@ -310,9 +310,9 @@ contract ProdToken is CommonToken {
     function ProdToken() CommonToken(
         
         // TODO Set real seller address (main holder of tokens)
-        0x0da1383caf0b6e14487550d41334a591430c8220ace1133600099b81b71503c7,
+        0x7Fb504439B8a99CF1e31Dfd0490FD19a7BB502D0,
         
         // TODO Set real team address.
-        0x0da1383caf0b6e14487550d41334a591430c8220ace1133600099b81b71503c7 
+        0x7Fb504439B8a99CF1e31Dfd0490FD19a7BB502D0 
     ) public {}
 }

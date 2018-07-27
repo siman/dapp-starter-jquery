@@ -1,4 +1,4 @@
-let DAPP_CONTRACT_ADDRESS = '0xb92f507509b13e092f5ae9413c9800b1c243fa2e'
+let DAPP_CONTRACT_ADDRESS = '0xd929e705796869a2c849c1178e5f57c58ae99e5b'
 
 let Contract = web3.eth.contract(DAPP_ABI)
 let contract = Contract.at(DAPP_CONTRACT_ADDRESS)
